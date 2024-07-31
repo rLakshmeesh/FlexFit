@@ -4,4 +4,23 @@
     <string name="let_s_go">LET\'S GO!</string>
     <string name="sign_in">Sign in</string>
     <string name="geetha">योगः कर्मसु कौशलम् ।</string>
+    <string name="welcom_back">Welcom Back</string>
+    <string name="lakshmeesh_r">Lakshmeesh R</string>
+    <string name="search_workout">Search Workout...</string>
+    <string name="daily_monitoring">Daily Monitoring</string>
+    <string name="_3200">3200</string>
+    <string name="daily_calories">Daily Calories</string>
+    <string name="_7h_30min">7h 30min</string>
+    <string name="sleeping_time">Sleeping Time</string>
+    <string name="_11m_2w_5days">11m 2w 5days</string>
+    <string name="total_workout">Total Workout</string>
+    <string name="twisted_nexercise">Twist\nExercise</string>
+    <string name="_20_min_beginner">20 min beginner</string>
+    <string name="other_workout">Other Workout</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <string name="home_nav">Home</string>
+    <string name="see_all">See All</string>
 </resources>
