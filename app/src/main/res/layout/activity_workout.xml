@@ -84,7 +84,7 @@
                     android:layout_height="wrap_content"
                     android:text="@string/dot"
                     android:textColor="@color/orange"
-                    android:textSize="14sp"
+                    android:textSize="18sp"
                     android:textStyle="bold" />
 
                 <TextView
@@ -101,7 +101,7 @@
                     android:layout_height="wrap_content"
                     android:text="@string/dot"
                     android:textColor="@color/orange"
-                    android:textSize="14sp"
+                    android:textSize="18sp"
                     android:textStyle="bold" />
 
                 <TextView
